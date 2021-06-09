@@ -1,0 +1,9 @@
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\bin\Debug\practical8.exe.config
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\bin\Debug\practical8.exe
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\bin\Debug\practical8.pdb
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\obj\Debug\practical8.csprojResolveAssemblyReference.cache
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\obj\Debug\practical8.Form1.resources
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\obj\Debug\practical8.Properties.Resources.resources
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\obj\Debug\practical8.csproj.GenerateResource.Cache
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\obj\Debug\practical8.exe
+D:\sem 4\ADT\coding file\Practical8\practical8\practical8\obj\Debug\practical8.pdb
