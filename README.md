@@ -15,4 +15,9 @@ In this application we use text editor using the concept of file handling. Appli
 <img src="https://github.com/RiyaShah08/File-Handling-concept/blob/main/output/Editingtools.PNG">
 <br>
 
-##
+## Font & color 
+<img src="https://github.com/RiyaShah08/File-Handling-concept/blob/main/output/Font.PNG">
+<br>
+
+<img src="https://github.com/RiyaShah08/File-Handling-concept/blob/main/output/ColorTable.PNG">
+<br>
